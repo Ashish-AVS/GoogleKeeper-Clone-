@@ -1,5 +1,5 @@
 # GoogleKeeper-Clone-
-====================================================
+
 A clone of Google Keeper made with React.
 
 # Installation
