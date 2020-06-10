@@ -7,7 +7,7 @@ A clone of Google Keeper made with React.
 --> Next run npm install inside the Folder to install all the dependencies.
 
 --> Then run npm start to run React App.
-=====================================================
+
 # Working
 
 --> This app creates notes dynamically as you enter.
