@@ -1,6 +1,7 @@
 # GoogleKeeper-Clone-
-A clone of Google Keeper made with React.
 ====================================================
+A clone of Google Keeper made with React.
+
 # Installation
 --> To run this in your machine, make sure that you have nodeJs installed.
 
@@ -15,5 +16,5 @@ A clone of Google Keeper made with React.
 --> You can even delete them by clicking on the delete button
 
 --> This App uses latest React Hooks.
-=========================================================
+
 
